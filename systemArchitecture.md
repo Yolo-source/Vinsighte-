@@ -25,8 +25,8 @@ The architecture connects a **mobile app frontend** to a **backend API**, which 
 
 2. **Processing Layer**
    - The app uses the device camera or mic to capture input.
-   - OCR converts images of text into digital text.
-   - TTS and STT engines process audio and convert accordingly.
+   - OCR (Optical Character Recognition) converts images of text into digital text.
+   - TTS (Text-to-Speech) and STT (Speech-to-Text)engines process audio and convert accordingly.
    - AI model recognizes sign language gestures and translates them into text or audio.
 
 3. **Database Layer**
