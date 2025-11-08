@@ -1,7 +1,7 @@
 # Vinsighte – System Architecture
 
 ## Overview
-Vinsighte is built as a mobile-first platform designed to help visually impaired, deaf, and deaf-mute users read and communicate easily.  
+Vinsighte is built as a mobile-first platform designed to help visually impaired, deaf, and deaf-mute users read and communicate easily. 
 The architecture connects a **mobile app frontend** to a **backend API**, which manages authentication, data storage, and AI processing.
 
 ### Technical Stack
