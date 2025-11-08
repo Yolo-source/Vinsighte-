@@ -31,7 +31,7 @@ It gives people independence, confidence, and connection in their daily lives.
 - **Database:** MongoDB Atlas  
 - **AI Services:** Google Cloud Vision API for OCR, TensorFlow Lite for gesture recognition  
 
-**My Contribution**
+**My Contribution** 
 
 I conceptualized this inclusive version of Vinsighte as part of a personal project on accessibility and inclusion. I started with sketches, user stories, and flow diagrams, then translated the ideas into wireframes.  
 
