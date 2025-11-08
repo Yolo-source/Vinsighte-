@@ -1,4 +1,4 @@
-#Vinsighte – Inclusive Reading & Communication App
+# Vinsighte – Inclusive Reading & Communication App
 
 **About the Project**
 Vinsighte is a Nigerian-built accessibility app that helps people with visual, hearing, and speech challenges communicate, learn, and access information easily. 
