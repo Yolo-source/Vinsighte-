@@ -5,10 +5,10 @@ Vinsighte is a Nigerian-built accessibility app that helps people with visual, h
 
 The app started as a tool for the visually impaired, using text-to-speech to read printed or digital text aloud. Over time, I imagined expanding it into a more inclusive version that could also help people who are deaf or deaf-mute.  
 
-The goal is simple — to make reading, learning, and communication easier for everyone, regardless of condition.
+The goal is simple to make reading, learning, and communication easier for everyone, regardless of condition.
 
 **Why It Matters**
-Many people with disabilities in Nigeria struggle with access — whether it’s reading, studying, or communicating.  
+Many people with disabilities in Nigeria struggle with access whether it’s reading, studying, or communicating.  
 
 Vinsighte helps bridge that gap by turning text into speech, speech into text, and even recognizing basic sign language gestures.  
 It gives people independence, confidence, and connection in their daily lives.  
